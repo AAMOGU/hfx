@@ -1,0 +1,56 @@
+.bt {
+  background-color: #25aef3;
+  display: block;
+  width: 200px;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  font-family: "Staatliches", cursive;
+  line-height: 50px;
+  transition: 1s;
+  margin-bottom: 50px;
+}
+.bt:hover {
+  background-color: transparent;
+  color: #6617f5;
+  border: 3px solid #6617f5;
+}
+.bt2 {
+  background-color: #ffff00;
+  display: block;
+  width: 200px;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  font-family: "Staatliches", cursive;
+  line-height: 50px;
+  transition: 1s;
+  margin-bottom: 50px;
+}
+.bt2:hover {
+  background-color: transparent;
+  color: #6617f5;
+  border: 3px solid #6617f5;
+}
+.bt3 {
+  background-color: #7491c2;
+  display: block;
+  width: 200px;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  font-family: "Staatliches", cursive;
+  line-height: 50px;
+  transition: 1s;
+  margin-bottom: 50px;
+}
+.bt3:hover {
+  background-color: transparent;
+  color: #6617f5;
+  border: 3px solid #6617f5;
+}
+* {
+  display: flex;
+  margin-right: 10px;
+  justify-content: space-around;
+}
